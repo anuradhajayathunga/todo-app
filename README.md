@@ -243,8 +243,8 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ## 👨‍💻 Author
 
-* **Your Name** – [@your_github](https://github.com/your_github)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* **Your Name** – [@anuradha.j](https://github.com/anuradhajayathunga/)
+* Email: [jayathunga.anu@gmail.com](https://github.com/anuradhajayathunga/)
 
 ```
 
