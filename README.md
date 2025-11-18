@@ -1,4 +1,3 @@
-Here’s a modern, professional **README.md** template you can drop straight into your Django repo and customize 👇
 
 ---
 
