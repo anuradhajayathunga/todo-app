@@ -1,8 +1,10 @@
-from django.http import HttpResponse
-from django.shorcuts import render
+from django.shortcuts import render
+from todo.models import Task
 
 def home(request):
-    # render http response
-   # return HttpResponse('<h1>Home</h1>')
-    # render html page
-    return render (request, "home.html")
+    tasks = Task.objects.filter(is_completed=False).order_by('-updated_at')
+    context = {
+    'tasks': tasks
+    }
+    print(tasks)
+    return render(request, 'home.html',context)
