@@ -9,12 +9,6 @@ Example: “A simple yet powerful To-Do application built with Django.”
 
 ---
 
-## 📸 Screenshots
-
-> _Optional — add a few screenshots or a GIF of the app UI here._
-
----
-
 ## ✨ Features
 
 - ✅ Feature 1 (e.g. Create, update, delete tasks)
